@@ -1,1 +1,3 @@
-there are some details of the students
+Name - Anu
+Father - Shekhar
+Mother - Priya
